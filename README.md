@@ -2,7 +2,7 @@ Lessa-Machado Negócios & Cia
 
 Deep Business Intelligence Hub
 
-###The Code of Business
+The Code of Business
 
 **Missão**: Desenvolver e prosperar os negócios digitais com segurança, 
 inteligência e automação.
